@@ -8,8 +8,6 @@
 */
 
 import 'dart:convert';
-import 'dart:typed_data';
-import 'dart:typed_data';
 
 String encode(String input) {
   // Convert the string to bytes and then to Base64
