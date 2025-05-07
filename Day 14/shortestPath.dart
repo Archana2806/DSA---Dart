@@ -1,6 +1,6 @@
 /*
 - Find the Shortest Path in an Unweighted Graph (BFS Approach)
-- Instead of Dijkstra’s Algorithm, start with Breadth-First Search (BFS) for shortest paths in an unweighted graph.
+- Start with Breadth-First Search (BFS) for shortest paths in an unweighted graph.
 - Example:
 - Input: { "A": ["B", "C"], "B": ["C", "D"], "C": ["D"], "D": [] }
 - Find the shortest path from "A" to "D" → Output: ["A", "B", "D"]
