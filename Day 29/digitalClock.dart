@@ -1,5 +1,5 @@
 /*
-Build a Simple Digital Clock (Single Page)
+Build a Simple Digital Clock
 Create an app where a digital clock updates every second, displaying the current time—all within a single page.
 Features:
 ✅ Show the current hour, minute, and second dynamically.
